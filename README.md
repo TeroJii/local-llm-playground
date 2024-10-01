@@ -22,3 +22,6 @@ Pull the necessary models via:
 docker exec -it ollama ollama pull <insert-model-name>
 ```
 
+### Finding models
+
+The [ollama website](https://ollama.com/library) lists available models.
