@@ -1,4 +1,4 @@
-## Run this file to start the Streamlit app: stremlit run PDFchatApp.py
+## Run this file to start the Streamlit app: streamlit run PDFchatApp.py
 # This simple app allows you to ask questions from pdf file content using a large language model
 # The language model will be running locally inside a docker container
 # before running the app please start the docker container
